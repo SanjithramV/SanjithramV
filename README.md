@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sanjith Ram V!
 
-🎓 Final-year B.Tech ECE student at VIT Chennai (CGPA: 9.5)  
+🎓 Final-year B.Tech ECE student at VIT Chennai (CGPA: 9.52)  
 💻 Passionate about full-stack development, data analytics, cybersecurity, and embedded systems  
 🚀 I thrive on building impactful systems—from secure quantum encryption to fall detection devices for elderly care
 
