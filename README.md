@@ -25,17 +25,18 @@
 ---
 
 ### 🔍 Featured Research & Projects  
+| Project                                        | Description                                                                                                                                                 |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🌍 TravelGPT – Generative AI Agent**         | LangChain-based AI agent for travel planning; integrated weather APIs, maps & activity databases; uses **RAG** for knowledge retrieval from travel datasets |
+| **🔐 Capstone: Quantum-Safe Image Encryption** | Deep learning + QKD + chaotic maps for real-time, quantum-resilient image security                                                                          |
+| **📡 DRDO Antenna Automation**                 | Automated antenna measurement workflows; boosted throughput by 40% with LabVIEW & Python                                                                    |
+| **🧓 Elderly Fall Detection System**           | IoT-based solution using MPU6050 & ESP8266 with instant WiFi alerts for caregivers                                                                          |
+| **🧠 LangChain Agent System**                  | Multi-step LLM workflows using LangGraph + LangSmith; debugging & performance tuning; integrated **RAG** pipelines for contextual retrieval                 |
+| **📊 Supply Chain Optimization**               | Python forecasting + Tableau dashboards → reduced stockouts by 25%, $8.5M/year projected savings                                                            |
+| **🔊 Vocal Authenticator**                     | MLP-based speaker verification system using MFCC; achieved 90%+ accuracy                                                                                    |
+| **🤖 Emoji & Sign Language Detection**         | OpenCV + deep learning for accessibility; real-time gesture & emoji recognition                                                                             |
 
-| Project | Description |
-|--------|-------------|
-| **🌍 TravelGPT – Generative AI Agent** | LangChain-based AI agent for travel planning; integrated weather APIs, maps & activity databases |
-| **🔐 Capstone: Quantum-Safe Image Encryption** | Deep learning + QKD + chaotic maps for real-time, quantum-resilient image security |
-| **📡 DRDO Antenna Automation** | Automated antenna measurement workflows; boosted throughput by 40% with LabVIEW & Python |
-| **🧓 Elderly Fall Detection System** | IoT-based solution using MPU6050 & ESP8266 with instant WiFi alerts for caregivers |
-| **🧠 LangChain Agent System** | Multi-step LLM workflows using LangGraph + LangSmith; debugging & performance tuning |
-| **📊 Supply Chain Optimization** | Python forecasting + Tableau dashboards → reduced stockouts by 25%, $8.5M/year projected savings |
-| **🔊 Vocal Authenticator** | MLP-based speaker verification system using MFCC; achieved 90%+ accuracy |
-| **🤖 Emoji & Sign Language Detection** | OpenCV + deep learning for accessibility; real-time gesture & emoji recognition |
+
 
 ---
 
