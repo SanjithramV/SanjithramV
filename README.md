@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sanjith Ram V!  
 
-🎓 Final-year ECE undergrad from VIT Chennai (CGPA: 9.52)  
+🎓 ECE undergraduate from VIT Chennai (CGPA: 9.52)  
 💻 Certified IBM Java Developer with expertise in **Full-Stack Development, AI/ML, and Generative AI Agents**  
 🔐 Passionate about applied research in **cybersecurity, cryptography, and intelligent systems**  
 🚀 Built impactful solutions ranging from **quantum-safe encryption** to **AI-powered travel assistants**  
@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,sql,mysql,git,github,arduino,aws,figma,tableau,powerbi" alt="Tech Stack Icons" />
 </p>
 
-- 🧠 **AI & ML**: Scikit-learn, Pandas, NumPy, CNNs, MLPs, model tuning  
+- 🧠 **AI & ML**: Scikit-learn, Pandas, NumPy, CNNs, MLPs, model tuning,OpenCV 
 - 🤖 **GenAI & LLM Tools**: LangChain, LangGraph, LangSmith, OpenAI API, Agent Frameworks  
 - ☁️ **Backend & Systems**: Java (Spring Boot), Python, REST APIs, Linux  
 - 🔐 **Security & Cryptography**: SPN, Quantum-Safe Encryption, Chaotic Maps  
@@ -25,16 +25,18 @@
 ---
 
 ### 🔍 Featured Research & Projects  
-| Project                                        | Description                                                                                                                                                 |
-| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🌍 TravelGPT – Generative AI Agent**         | LangChain-based AI agent for travel planning; integrated weather APIs, maps & activity databases; uses **RAG** for knowledge retrieval from travel datasets |
-| **🔐 Capstone: Quantum-Safe Image Encryption** | Deep learning + QKD + chaotic maps for real-time, quantum-resilient image security                                                                          |
-| **📡 DRDO Antenna Automation**                 | Automated antenna measurement workflows; boosted throughput by 40% with LabVIEW & Python                                                                    |
-| **🧓 Elderly Fall Detection System**           | IoT-based solution using MPU6050 & ESP8266 with instant WiFi alerts for caregivers                                                                          |
-| **🧠 LangChain Agent System**                  | Multi-step LLM workflows using LangGraph + LangSmith; debugging & performance tuning; integrated **RAG** pipelines for contextual retrieval                 |
-| **📊 Supply Chain Optimization**               | Python forecasting + Tableau dashboards → reduced stockouts by 25%, $8.5M/year projected savings                                                            |
-| **🔊 Vocal Authenticator**                     | MLP-based speaker verification system using MFCC; achieved 90%+ accuracy                                                                                    |
-| **🤖 Emoji & Sign Language Detection**         | OpenCV + deep learning for accessibility; real-time gesture & emoji recognition                                                                             |
+| Project                                        | Description                                                                                                                                                                                                     |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🌍 TravelGPT – Generative AI Agent**         | LangChain-based AI agent for travel planning; integrated weather APIs, maps & activity databases; uses **VOOSH RAG** for contextual retrieval from travel datasets                                              |
+| **🔐 Capstone: Quantum-Safe Image Encryption** | Deep learning + QKD + chaotic maps for real-time, quantum-resilient image security                                                                                                                              |
+| **📡 DRDO Antenna Automation**                 | Automated antenna measurement workflows; boosted throughput by 40% with LabVIEW & Python                                                                                                                        |
+| **🧓 Elderly Fall Detection System**           | IoT-based solution using MPU6050 & ESP8266 with instant WiFi alerts for caregivers                                                                                                                              |
+| **🤖 Voosh RAG Assistant**                     | Retrieval-augmented chatbot backend using Node.js, Express, Redis, Qdrant, Jina embeddings & Gemini API; session persistence & semantic retrieval enabled multi-turn conversations grounded in domain knowledge |
+| **🧠 LangChain Agent System**                  | Built multi-step AI workflows using LangGraph + LangSmith; integrated OpenAI API with tool-calling, memory modules & LangSmith monitoring for observability and performance tuning                              |
+| **📊 Supply Chain Optimization**               | Python forecasting + Tableau dashboards → reduced stockouts by 25%, $8.5M/year projected savings                                                                                                                |
+| **🔊 Vocal Authenticator**                     | MLP-based speaker verification system using MFCC; achieved 90%+ accuracy                                                                                                                                        |
+| **🤖 Emoji & Sign Language Detection**         | OpenCV + deep learning for accessibility; real-time gesture & emoji recognition                                                                                                                                 |
+
 
 
 
